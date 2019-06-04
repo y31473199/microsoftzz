@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "众兆小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "black",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "black",
+    "list": [
+      {
+        "selectedIconPath": "images/icon/home.png",
+        "iconPath": "images/icon/home.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "images/icon/product.png",
+        "iconPath": "images/icon/product.png",
+        "pagePath": "pages/logs/logs",
+        "text": "产品"
+      },
+      {
+        "selectedIconPath": "images/icon/product.png",
+        "iconPath": "images/icon/product.png",
+        "pagePath": "pages/logs/logs",
+        "text": "产品"
+      },
+      {
+        "selectedIconPath": "images/icon/mysqlf.png",
+        "iconPath": "images/icon/mysqlf.png",
+        "pagePath": "pages/index/index",
+        "text": "我的"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap16.json"
+}
